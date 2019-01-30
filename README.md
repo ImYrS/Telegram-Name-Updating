@@ -17,8 +17,9 @@ lastname实时更新效果：<a href="https://t.me/CodyDoby">Cody</a>
 <code>git clone https://github.com/ImYrS/Telegram-Name-Updating.git</code>\
 <code>cd Telegram-Name-Updating</code>
 
-## 2. 安装telethon
+## 2. 安装依赖
 
+<code>apt install python3-pip</code>
 <code>pip3 install -r requirements.txt</code>
 
 ## 3. 运行Demo小程序
